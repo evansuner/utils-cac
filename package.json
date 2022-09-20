@@ -1,6 +1,6 @@
 {
   "name": "utils-cac",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The library exported as Node.js modules",
   "main": "index.js",
   "scripts": {
